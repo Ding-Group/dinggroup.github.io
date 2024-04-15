@@ -1,13 +1,3 @@
-STOP!!!
+If you see this, you are creating the PR to the Ding Group website.
 
-You are about to open this pull request against THE TEMPLATE ITSELF. You probably meant to open it against your own website repo.
-
----
-
-FOR THE TEMPLATE MAINTAINER(S)
-
-New template version checklist:
-
-- [ ] I have updated CITATION and CHANGELOG as appropriate.
-- [ ] I have updated lab-website-template-docs as appropriate.
-- [ ] I have checked the testbed as appropriate.
+If you don't see this, you may be creating a PR against the original template repo.
