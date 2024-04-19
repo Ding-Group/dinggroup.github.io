@@ -1,3 +1,5 @@
-If you see this, you are creating the PR to the Ding Group website.
+This website is based on the Lab Website Template.
+See its documentation for working with this site:
 
-If you don't see this, you may be creating a PR against the original template repo.
+https://greene-lab.gitbook.io/lab-website-template-docs
+
