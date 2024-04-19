@@ -1,6 +1,6 @@
 ---
 name: Jeffrey Niu
-image: images/jeffreyniu.jpg
+image: images/team/jeffreyniu.jpg
 role: master
 links:
   github: niujeffrey
