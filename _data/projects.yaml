@@ -1,7 +1,7 @@
 - title: scPhere
   group: featured
   image: images/tools/scPhere_thumbnail.jpg
-  link: https://github.com/
+  link: https://github.com/Ding-Group/scPhere/
   description: Deep generative model embedding single-cell RNA-Seq profiles on hyperspheres or hyperbolic spaces
   repo: Ding-Group/scPhere
   tags:
