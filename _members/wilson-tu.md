@@ -1,6 +1,6 @@
 ---
 name: Wilson Tu
-image: images/photo.jpg
+image: images/wilsontu.png
 role: Graduate Student
 aliases:
   - Lin Shuan Tu
